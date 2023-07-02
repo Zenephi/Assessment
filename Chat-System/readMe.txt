@@ -1,12 +1,10 @@
 step-by-step guide on how to run the Node.js server for the chat system:
 
-
-
 1. Open Visual Studio Code.
 
-2. Open the folder with a name of Chat-System.
-
-3 Open the terminal in Visual Studio Code. You can do this by clicking on the "View" menu, selecting "Terminal," and then choosing "New Terminal."
+2. Open folder then find the Chat-System folder, select Chat-system then Select folder.
+    
+3 Open the terminal in Visual Studio Code. selecting "Terminal," and then choosing "New Terminal."
 
 4. In the terminal, run the following commands one by one:
     npm init -y 
